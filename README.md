@@ -18,15 +18,15 @@ Ex :
 
 # Rules:
 
-A number is Fizz if it’s divisible by 3 or if it has a 3 in it
+A number is Fizz if it’s divisible by 3 or if it has a 3 in it <br />
 
-A number is Buzz if it’s divisible by 5 or if it has a 5 in it
+A number is Buzz if it’s divisible by 5 or if it has a 5 in it <br />
 
-A number is FizzBuzz if it satisfies above 2 conditions together
+A number is FizzBuzz if it satisfies above 2 conditions together <br />
 
 
 
 # Maven Commands to run the program
-mvn clean install - (build the program)
-mvn test - (run the test cases)
-mvn exec:java - (run the program)
+mvn clean install - (build the program) <br />
+mvn test - (run the test cases) <br />
+mvn exec:java - (run the program) <br />
