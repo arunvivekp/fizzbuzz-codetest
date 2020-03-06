@@ -1,7 +1,7 @@
 # FizzBuzz
 Program that prints the numbers from 1 to 100. But for multiples of 3 and 5, prints corresponding string. Values are printed as log messages
 
-Ex : 
+Ex : </br>
 [INFO ] - 1
 
 [INFO ] - 2
