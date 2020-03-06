@@ -1,4 +1,4 @@
-#FizzBuzz
+# FizzBuzz
 Program that prints the numbers from 1 to 100. But for multiples of 3 and 5, prints corresponding string. Values are printed as log messages
 
 Ex : 
@@ -16,7 +16,7 @@ Ex :
 
 
 
-#Rules:
+# Rules:
 
 A number is Fizz if it’s divisible by 3 or if it has a 3 in it </br>
 
